@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    margin: 30px;
+}
+.nav-bar{
+    margin: 30px;
+}
+.nav-bar{
+    margin-top: 200px;
+}
+.nav-bar ul li a{
+    color: white;
+}
+h2{
+    margin: 45px;
+    font-size: 10px;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+
+.imagens img{
+    margin: 5px;
+}
+
+.sec {
+    text-align: center;
+
+
+}
+.sec button{
+    width: 80%;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.sec button:hover{
+  background-color: silver;
+    opacity: 20%;
+    transition: 1s;
+    color: white;
+}
+
